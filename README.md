@@ -56,4 +56,4 @@ default params values:
 
 ## Deployment
 
-Deploy Solr to your server via [![Wodby](https://www.google.com/s2/favicons?domain=anaxexp.io) Wodby](https://cloud.anaxexp.io/stackhub/dc8074a9-f27d-44a8-8f88-5922b4e16d2f).
+Deploy Solr to your server via [![AnaxExp](https://www.google.com/s2/favicons?domain=anaxexp.io) AnaxExp](https://cloud.anaxexp.io/stackhub/dc8074a9-f27d-44a8-8f88-5922b4e16d2f).
